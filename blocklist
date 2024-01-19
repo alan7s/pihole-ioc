@@ -1,0 +1,83 @@
+# Title: alan7s/blocklist
+#
+# Blocklist for malicious domains and campaings
+#
+# Last update: 19 January 2024
+#
+# Fetch the latest version of this file:
+# Project home page: https://github.com/alan7s/pihole-ioc
+#
+# ===============================================================
+
+# [Malware]
+0.0.0.0 gowsalesvs.live
+0.0.0.0 ghost.blueecho88.com
+0.0.0.0 beecorp.com.br
+0.0.0.0 kmrfibras.com.br
+0.0.0.0 www.ebs.com.br
+0.0.0.0 trackinghub.info
+0.0.0.0 multitudewarfare.top
+0.0.0.0 cdlto.com.br
+0.0.0.0 wirsilsa.net
+0.0.0.0 ginsabores.com.br
+0.0.0.0 cervejaeciadistribuidora.com.br
+0.0.0.0 download.cdn-televzr.com
+0.0.0.0 www.nzangoartistresidency.com
+0.0.0.0 sistemaathos.com.br
+0.0.0.0 plankjock.com
+0.0.0.0 cursosinterativos.com.br
+0.0.0.0 elianepotiguara.org.br
+0.0.0.0 programdiag.com
+0.0.0.0 prodigits.co.uk
+0.0.0.0 pmisp.org.br
+0.0.0.0 www.jornaloflorense.com.br
+0.0.0.0 webdataspace.com
+0.0.0.0 grupomlm.com
+0.0.0.0 www.grupomlm.com
+0.0.0.0 upscri.be
+0.0.0.0 sellspafull.live
+0.0.0.0 olybible.com
+0.0.0.0 llconsult.com.br
+0.0.0.0 acouguevegano.com.br
+0.0.0.0 observatoriodeourofino.com.br
+0.0.0.0 new2sportnews.com
+0.0.0.0 trackmenow.life
+0.0.0.0 tsweeqksa.net
+0.0.0.0 cdnw1.omeuwebsite.com
+0.0.0.0 contanely.com
+0.0.0.0 here.selectofmychoices.com
+0.0.0.0 pixclub.site
+0.0.0.0 wpemojii.com
+0.0.0.0 citroen.psgermain.com.br
+0.0.0.0 www.priori.com.br
+0.0.0.0 taxes.rpacx.com
+0.0.0.0 www.hidoctor.com.br
+0.0.0.0 direitopublico.com.br
+0.0.0.0 puxeumacadeira.com.br
+0.0.0.0 googlecloudns.com
+0.0.0.0 promais.med.br
+0.0.0.0 mestredaobra.com
+0.0.0.0 cdn.kaisergames.de
+
+# [Spam]
+0.0.0.0 uorak.com
+
+# [Phishing]
+0.0.0.0 kifortequimica.com.br
+isbncoverdb.com
+0.0.0.0 encr.pw
+0.0.0.0 twixar.me
+0.0.0.0 analytics-henrique.top
+0.0.0.0 isbncoverdb.com
+0.0.0.0 brwsuprimentos.com.br
+0.0.0.0 latam-oab.cd-brasil.com
+0.0.0.0 onlinevaluepack.com
+0.0.0.0 app.rdstation.email
+0.0.0.0 ciscolicense.com
+0.0.0.0 retorno.totaldocs.com
+0.0.0.0 brwsuprimentos.com.br
+
+# [Mining]
+0.0.0.0 thishosting.rocks
+0.0.0.0 revistaexclusive.com.br
+0.0.0.0 minexmr.com
