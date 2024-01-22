@@ -2,7 +2,7 @@
 #
 # Blocklist for malicious domains and campaings
 #
-# Last update: 19 January 2024
+# Last update: 22 January 2024
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/alan7s/pihole-ioc/main/blocklist
 # Project home page: https://github.com/alan7s/pihole-ioc
@@ -58,6 +58,7 @@
 0.0.0.0 promais.med.br
 0.0.0.0 mestredaobra.com
 0.0.0.0 cdn.kaisergames.de
+0.0.0.0 plumasstore.com.br
 
 # [Spam]
 0.0.0.0 uorak.com
