@@ -2,7 +2,7 @@
 #
 # Blocklist for malicious domains and campaings
 #
-# Last update: 24 January 2024
+# Last update: 26 January 2024
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/alan7s/pihole-ioc/main/blocklist
 # Project home page: https://github.com/alan7s/pihole-ioc
@@ -64,6 +64,7 @@
 0.0.0.0 zarrue.com
 0.0.0.0 vibedroom.org
 0.0.0.0 oncespyaye.live
+0.0.0.0 akmos.com.br
 
 # [Spam]
 0.0.0.0 uorak.com
